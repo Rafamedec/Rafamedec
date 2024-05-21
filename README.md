@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **rafamedec@gmail.com**
 
-- ⚡ Fun fact **I think that my cockatiel is the best bird in this world**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
